@@ -1,0 +1,14 @@
+[
+    {
+        "_Product__id": 1,
+        "descrip": "Manzana",
+        "preci": 20.0,
+        "_Product__stock": 100
+    },
+    {
+        "_Product__id": 1,
+        "descrip": "Pera",
+        "preci": 0.24,
+        "_Product__stock": 100
+    }
+]

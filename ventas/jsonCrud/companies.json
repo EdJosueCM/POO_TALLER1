@@ -1,0 +1,17 @@
+[
+    {
+        "_Company__id": 1,
+        "business_name": "Claro",
+        "ruc": "9999999"
+    },
+    {
+        "_Company__id": 2,
+        "business_name": "Movistar",
+        "ruc": "999999"
+    },
+    {
+        "_Company__id": 1,
+        "business_name": "Tuenti",
+        "ruc": "98765"
+    }
+]
